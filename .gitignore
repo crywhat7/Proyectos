@@ -1,4 +1,6 @@
+# Ignorando VSCODE
 .vscode/
-NotasMilton.txt
-ProyectoAlis/nbproject/
-ProyectoKeneth/nbproject/
+
+# Ignorando nbproject
+ProyectoAlis/*
+ProyectoKeneth/*
