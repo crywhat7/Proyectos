@@ -42,7 +42,7 @@
     <div class="zonaSuperior">
       <a href="index.jsp"><img src="img/logoBlanco.png" alt="" height="75%" class="logo"></a>
       <span class="titulo">
-        CONTROL DE USUARIOS
+        Lista de Usuarios
       </span>
     </div>
     <div class="container">
