@@ -2,5 +2,5 @@
 .vscode/
 
 # Ignorando nbproject
-ProyectoKeneth/nbproject/*
-ProyectoAlis/nbproject/
+# ProyectoKeneth/nbproject/
+# ProyectoAlis/nbproject/
